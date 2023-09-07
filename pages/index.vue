@@ -1,6 +1,6 @@
 <template>
-  <Tutorial />
-</template>
+  <ExpandingCards />
+  </template>
 
 <script>
 export default {
